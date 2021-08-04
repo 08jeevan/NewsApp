@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088078304567",
+    "project_id": "pondynewsapp",
+    "storage_bucket": "pondynewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088078304567:android:dd53c60a05294e368e36b2",
+        "android_client_info": {
+          "package_name": "com.tamilansofts.pondynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088078304567-dt0cdt4qifi11aj7t12q80v9bp2jo7uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamilansofts.pondynews",
+            "certificate_hash": "9b53a0109cb4f1d18eb2d5d69c9d3a7919ed107b"
+          }
+        },
+        {
+          "client_id": "1088078304567-rnq182uo2jbp2j00lecqi26fu2fdvtkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamilansofts.pondynews",
+            "certificate_hash": "7363385ba07feed48072ef7ed6d4672beba3b3bc"
+          }
+        },
+        {
+          "client_id": "1088078304567-8eiebee2ehcul5f2thk0d0j1c1bgst84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9v8NJAGpvLhxHlatCXVaVNawqIOiQldY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088078304567-8eiebee2ehcul5f2thk0d0j1c1bgst84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

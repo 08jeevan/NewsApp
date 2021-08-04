@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">Pondy News</string>  <!-- app name on fb -->
+   <string name="facebook_app_id">326888238822281</string>  <!-- fb app id -->
+   <string name="fb_login_protocol_scheme">fb326888238822281</string>  <!-- fb+ fb app id -->
+</resources>
